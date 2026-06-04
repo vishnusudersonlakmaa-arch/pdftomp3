@@ -9,5 +9,7 @@ mysqlclient==2.2.6
 pdf2image==1.17.0
 pillow==11.1.0
 PyMuPDF==1.25.1
-PyMySQL==1.1.1
+PyMySQL==1.1.1django
+
+django-celery-results
 gunicorn
